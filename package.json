@@ -1,0 +1,14 @@
+{
+  "name": "nexxos-propiedades",
+  "version": "1.0.0",
+  "description": "Automatizador para convertir CSV público de Nexxos a JSON.",
+  "main": "scripts/actualizar-propiedades.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/actualizar-propiedades.js"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "node-fetch": "^3.3.2"
+  }
+}
