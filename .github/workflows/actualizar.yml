@@ -1,0 +1,35 @@
+name: Actualizar propiedades Nexxos
+
+on:
+  schedule:
+    - cron: "0 * * * *" # cada hora
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Ejecutar script de actualización
+        run: npm start
+
+      - name: Commit y push de resultados
+        run: |
+          git config --local user.name "Nexxos Bot"
+          git config --local user.email "bot@nexxos.cl"
+          git add data/propiedades.json
+          git commit -m "🔄 Actualización automática de propiedades $(date)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
