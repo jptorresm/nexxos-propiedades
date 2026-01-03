@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.name "Nexxos Bot"
           git config --local user.email "bot@nexxos.cl"
-          git add data/propiedades.json
+          git add data/
           git commit -m "🔄 Actualización automática de propiedades $(date)"
           git push
         env:
