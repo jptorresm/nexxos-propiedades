@@ -1,5 +1,101 @@
 [
   {
+    "comuna": "Lo Barnechea",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "0",
+    "banos": "0",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113160",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "La Reina",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "3",
+    "banos": "1",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113124",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "2",
+    "banos": "1",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113043",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Linares",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "0",
+    "banos": "3",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113026",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Linares",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "0",
+    "banos": "3",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113025",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Teno",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "0",
+    "banos": "0",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=113024",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
     "comuna": "Talca",
     "tipo": "",
     "operacion": "",
@@ -13,7 +109,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112709",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -29,7 +125,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112708",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -45,7 +141,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112705",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -61,7 +157,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112704",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Lo Barnechea",
@@ -69,47 +165,15 @@
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "3",
+    "dormitorios": "5",
     "banos": "5",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135497",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112611",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "San Bernardo",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "0",
-    "banos": "0",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112520",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "San Bernardo",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "0",
-    "banos": "0",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112514",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Chonchi",
@@ -125,7 +189,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112488",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -141,23 +205,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112472",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Lo Barnechea",
+    "comuna": "La Reina",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "2",
-    "banos": "4",
+    "dormitorios": "4",
+    "banos": "5",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135498",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112344",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Puchuncaví",
@@ -173,7 +237,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112342",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Estación Central",
@@ -189,7 +253,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112235",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Ñuñoa",
@@ -197,34 +261,34 @@
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "3",
+    "dormitorios": "2",
     "banos": "2",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135499",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112204",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Las Condes",
+    "comuna": "Providencia",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "5",
-    "banos": "5",
+    "dormitorios": "0",
+    "banos": "3",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135502",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112203",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Las Condes",
+    "comuna": "Ñuñoa",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
@@ -235,9 +299,25 @@
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135503",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112197",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Ñuñoa",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "2",
+    "banos": "2",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112194",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -253,7 +333,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112191",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -269,7 +349,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112181",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -285,7 +365,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112132",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -301,23 +381,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112131",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "San Miguel",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "2",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=112071",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -333,7 +397,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111973",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -349,7 +413,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111965",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Papudo",
@@ -365,7 +429,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111956",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -381,7 +445,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111854",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -397,7 +461,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111691",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -413,23 +477,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111637",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Ñuñoa",
+    "comuna": "Las Condes",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "2",
-    "banos": "2",
+    "dormitorios": "1",
+    "banos": "1",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135504",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111610",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Viña del Mar",
@@ -445,7 +509,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111397",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -461,23 +525,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111394",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "Puente Alto",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "3",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111392",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Quinta Normal",
@@ -493,23 +541,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111387",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Vitacura",
+    "comuna": "Providencia",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "3",
+    "dormitorios": "0",
+    "banos": "4",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135536",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111219",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Licantén",
@@ -525,7 +573,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111135",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Quinta Normal",
@@ -541,7 +589,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111120",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Quinta Normal",
@@ -557,7 +605,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111119",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "San Miguel",
@@ -573,7 +621,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=111116",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -589,7 +637,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110824",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -605,10 +653,10 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110758",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Providencia",
+    "comuna": "Lo Barnechea",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
@@ -619,9 +667,9 @@
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135542",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110732",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Pinto",
@@ -637,7 +685,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110596",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Puerto Montt",
@@ -653,7 +701,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110422",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -669,23 +717,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110418",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Providencia",
+    "comuna": "Vitacura",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "0",
-    "banos": "0",
+    "dormitorios": "2",
+    "banos": "3",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135544",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110299",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -701,7 +749,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110089",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Chonchi",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "0",
+    "banos": "0",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110072",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -717,7 +781,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=110058",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Macul",
@@ -733,7 +797,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109981",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -749,23 +813,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109961",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Providencia",
+    "comuna": "Las Condes",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "0",
-    "banos": "0",
+    "dormitorios": "4",
+    "banos": "2",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135545",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109944",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -781,7 +845,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109942",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Temuco",
@@ -797,7 +861,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109891",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -813,7 +877,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109852",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -829,7 +893,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109743",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Loncoche",
@@ -845,7 +909,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109660",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Puerto Varas",
@@ -861,7 +925,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109635",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Temuco",
@@ -877,7 +941,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109560",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "San Miguel",
@@ -893,7 +957,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109549",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -909,7 +973,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109537",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "San Miguel",
@@ -925,23 +989,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109465",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "Las Condes",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "4",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135549",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Las Condes",
@@ -955,9 +1003,25 @@
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135551",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109403",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Las Condes",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "4",
+    "banos": "4",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109170",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "San Miguel",
@@ -973,7 +1037,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109160",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Puerto Varas",
@@ -989,7 +1053,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109135",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Casablanca",
@@ -1005,7 +1069,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109112",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Panguipulli",
@@ -1021,7 +1085,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109108",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Curacaví",
@@ -1037,7 +1101,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109107",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -1053,39 +1117,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109097",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "Santiago",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "4",
-    "banos": "2",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109014",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "La Serena",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "2",
-    "banos": "1",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=109000",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1101,7 +1133,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108995",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -1117,7 +1149,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108987",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -1133,23 +1165,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108985",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
-    "comuna": "Providencia",
+    "comuna": "Ñuñoa",
     "tipo": "",
     "operacion": "",
     "precioUF": 0,
     "precioCLP": 0,
-    "dormitorios": "0",
+    "dormitorios": "2",
     "banos": "1",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135552",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108974",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -1165,7 +1197,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108942",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Macul",
@@ -1181,7 +1213,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108931",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -1197,7 +1229,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108907",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Santiago",
@@ -1213,7 +1245,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108868",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1229,23 +1261,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108846",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "Coquimbo",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "2",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108845",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1261,7 +1277,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108744",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1277,7 +1293,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108743",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1293,7 +1309,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108738",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1309,7 +1325,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108735",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1325,7 +1341,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108728",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "San Miguel",
@@ -1341,7 +1357,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108666",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Cisterna",
@@ -1357,7 +1373,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108662",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Las Condes",
@@ -1366,14 +1382,14 @@
     "precioUF": 0,
     "precioCLP": 0,
     "dormitorios": "3",
-    "banos": "2",
+    "banos": "4",
     "superficie": null,
     "estacionamientos": null,
     "bodegas": null,
     "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=135556",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108637",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -1389,7 +1405,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108598",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1405,7 +1421,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108596",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1421,7 +1437,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108595",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Coquimbo",
@@ -1437,7 +1453,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108593",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Serena",
@@ -1453,23 +1469,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108592",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "La Serena",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "2",
-    "banos": "1",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108590",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "La Florida",
@@ -1485,7 +1485,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=108563",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Iquique",
@@ -1501,23 +1501,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107991",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
-  },
-  {
-    "comuna": "Talca",
-    "tipo": "",
-    "operacion": "",
-    "precioUF": 0,
-    "precioCLP": 0,
-    "dormitorios": "3",
-    "banos": "3",
-    "superficie": null,
-    "estacionamientos": null,
-    "bodegas": null,
-    "descripcion": "",
-    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107885",
-    "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Macul",
@@ -1533,7 +1517,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107883",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "El Bosque",
@@ -1549,7 +1533,23 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107844",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
+  },
+  {
+    "comuna": "Las Condes",
+    "tipo": "",
+    "operacion": "",
+    "precioUF": 0,
+    "precioCLP": 0,
+    "dormitorios": "1",
+    "banos": "1",
+    "superficie": null,
+    "estacionamientos": null,
+    "bodegas": null,
+    "descripcion": "",
+    "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107784",
+    "source": "Nexxos",
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Colina",
@@ -1565,7 +1565,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107754",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Viña del Mar",
@@ -1581,7 +1581,7 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107520",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   },
   {
     "comuna": "Talca",
@@ -1597,6 +1597,6 @@
     "descripcion": "",
     "link": "https://nexxospropiedades.cl/fichaPropiedad.aspx?i=107441",
     "source": "Nexxos",
-    "fechaActualizacion": "2026-01-29T01:16:14.770Z"
+    "fechaActualizacion": "2026-02-01T01:28:11.791Z"
   }
 ]
